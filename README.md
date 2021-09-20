@@ -113,7 +113,7 @@ The path to enlightement is a more sophisticated revision control
 systems - ones that can understand Excel.
 
 Luckily such a thing does actually exist,
-[VersionXl](http://versionexcel.com).
+[VersionXl](https://versionxl.com).
 
 ## Collaboration
 
