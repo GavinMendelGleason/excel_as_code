@@ -112,7 +112,8 @@ will simply butcher your file.
 The path to enlightement is a more sophisticated revision control
 systems - ones that can understand Excel.
 
-Luckily such a thing does actually exist, VersionXL.
+Luckily such a thing does actually exist,
+[VersionXl](http://versionexcel.com).
 
 ## Collaboration
 
