@@ -97,7 +97,7 @@ up to the minute. It was still possible to introduce breaking changes
 by messing something up in a clever way, but a *huge class of errors*
 was removed.
 
-## How Excel can join the Rennaisance
+## How Excel can join the Renaissance
 
 Unfortunately, none of this applies to Excel because Excel doesn't
 work well with revision control.
