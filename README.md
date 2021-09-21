@@ -26,9 +26,9 @@ virtually nobody treats Excel *seriously* like a programming language.
 
 How can this be? We have a programming language which is *essentially*
 acting as a declarative database, and yet we don't do unit tests, we
-don't keep track of changes, we collaborate it by sending it in them
-mail and god-forbid we should doing any serious *linting* of what is
-in the thing.
+don't keep track of changes, we collaborate with Excel by sending it 
+to our colleagues in the mail and god-forbid we should doing any 
+serious *linting* of what is in the thing.
 
 This is a really crazy situation.
 
